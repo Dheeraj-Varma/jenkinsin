@@ -3,3 +3,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> print "Gitjenkins"
 Gitjenkins
 >>> 
+print "secondjob"
+secondjob
+>>> 
