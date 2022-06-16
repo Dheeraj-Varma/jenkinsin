@@ -6,3 +6,12 @@ Gitjenkins
 print "secondjob"
 secondjob
 >>> 
+print "thirdjob"
+
+
+
+
+
+
+
+
